@@ -28,7 +28,6 @@ We have provided a **Jupyter noteboook** in `experiments/concept/concept.ipynb` 
 - Concept: references to specific dates and publication information
 - Model: `google/gemma-2-2b-it`
 - Layer: 10
-- Intervention location: `p2+s2`
 
 Example case:
 
