@@ -1,0 +1,9 @@
+FACTOR_INIT=1
+FACTOR_LR=10
+VEC_INIT=8
+VEC_LR=8e-2
+EPOCHS=6
+BATCH_SIZE=3
+GRAD_ACCUM_STEPS=2 # Gradient accumulation for SimPO loss is okay
+SV=add_free
+POSITIONS=f2+l2
