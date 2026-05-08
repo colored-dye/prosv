@@ -2,7 +2,6 @@
 Test intervened model performance on standard benchmarks:
 * Aggregated: MMLU
 * Math: (tiny)GSM8K
-* Code: HumanEval
 
 
 ## Gemma2-2B; L10
