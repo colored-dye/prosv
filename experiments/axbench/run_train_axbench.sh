@@ -59,7 +59,8 @@ if [[ ${obj} == simpo ]]; then
   CONCEPT_DATA_DIR=../../data/concept500_contrast/prod_${cfg}_v1/generate/
 fi
 
-OUTPUT_BASE_DIR=/mnt/data/byt/reft_data/axbench/${cfg}/outputs_${SV}/${POSITIONS}/${obj}
+OUTPUT_ROOT_DIR=/mnt/data/byt/reft_data
+OUTPUT_BASE_DIR=${OUTPUT_ROOT_DIR}/axbench/${cfg}/outputs_${SV}/${POSITIONS}/${obj}
 
 mkdir -p ${OUTPUT_BASE_DIR}
 cp configs/${config_file} ${OUTPUT_BASE_DIR}/${config_file}

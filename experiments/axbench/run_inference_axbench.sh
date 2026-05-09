@@ -46,7 +46,8 @@ if [[ ${obj} == simpo ]]; then
 fi
 
 ALPACA_EVAL_PATH=../../data/alpaca_eval.json
-OUTPUT_BASE_DIR=/mnt/data/byt/reft_data/axbench/${cfg}/outputs_${SV}/${POSITIONS}/${obj}
+OUTPUT_ROOT_DIR=/mnt/data/byt/reft_data
+OUTPUT_BASE_DIR=${OUTPUT_ROOT_DIR}/axbench/${cfg}/outputs_${SV}/${POSITIONS}/${obj}
 
 echo -e "\n####################################################################"
 echo -e "CFG: ${cfg} || Method: ${SV} || Positions: ${POSITIONS} || Obj: ${obj}"

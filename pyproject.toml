@@ -18,13 +18,9 @@ dependencies = [
     "torch>=2.9.0",
     "torchvision>=0.24.1",
     "tqdm>=4.67.1",
-    "transformers>=4.57.1",
+    "transformers>=4.57.1,<5.0",
 ]
 
 [build-system]
 requires = ["uv_build>=0.9.4,<0.10.0"]
 build-backend = "uv_build"
-
-[[tool.uv.index]]
-url = "https://mirrors.zju.edu.cn/pypi/web/simple"
-default = true
