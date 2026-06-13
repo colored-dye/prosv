@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.05983)  [![Github](https://img.shields.io/badge/PrOSV_Code-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/colored-dye/prosv)  [![Hugging Face Data](https://img.shields.io/badge/Data-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/colored-dye/concept500-contrastive)  [![Hugging Face Model](https://img.shields.io/badge/SV_Checkpoints-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/colored-dye/axbench-steering-vector)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.05983)  [![Github](https://img.shields.io/badge/PrOSV_Code-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/ZJU-OmniAI/prosv)  [![Hugging Face Data](https://img.shields.io/badge/Data-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/colored-dye/concept500-contrastive)  [![Hugging Face Model](https://img.shields.io/badge/SV_Checkpoints-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/colored-dye/axbench-steering-vector)
 
 </div>
 
